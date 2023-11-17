@@ -15,6 +15,5 @@ jobs:
 
     - name: Print GITHUB_WORKSPACE
       run: echo "Workspace: $GITHUB_WORKSPACE"
-
     # You can now use $GITHUB_WORKSPACE in other steps or scripts
     # to reference files in your repository.
